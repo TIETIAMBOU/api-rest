@@ -1,0 +1,14 @@
+Installation des outils et tchnologies1
+    1   mongodb
+    2   nodejs
+    3   npm
+    4   postman
+
+II. Installation des modules
+    commmande(A la racine du projet) : npm install
+
+III. Démarrage du serveur mongodb
+     commmande : mongod
+
+IV. Démarrage du serveur API
+    commmande(A la racine du projet) : node index
